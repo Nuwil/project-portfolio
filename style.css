@@ -1,0 +1,87 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/* PAGES WxH*/
+.About {
+    width: 100%;
+    height: 25vh;
+}
+
+.Education {
+    width: 100%;
+    height: 100vh;
+}
+
+.Skills {
+    width: 100%;
+    height: 100vh;
+}
+
+.Projects {
+    width: 100%;
+    height: 100vh;
+}
+
+.Contacts {
+    width: 100%;
+    height: 100vh;
+}
+
+/* PAGES CONTAINER */
+.container {
+    padding: 5rem 33%;
+}
+
+/* ABOUT ME STYLE CONTAINER */
+.header-section {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+.header-section {}
+
+.intro-section {}
+
+/* EDUCATION ATTAINMENT STYLE CONTAINER */
+.edu-grid-container {}
+
+.edu-grid {
+    margin-bottom: 1rem;
+}
+
+.edu-level {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.school-name {
+    font-size: 1rem;
+}
+
+.school-year {
+    font-weight: bolder;
+}
+
+/* DEVELOPMENT SKILLS STYLE CONTAINER */
+.skills-grid-container {}
+
+.skills-grid {}
+
+.skill-name {}
+
+.skill-info {}
+
+/* PROJECTS DEPLOYED STYLE CONTAINER */
+.proj-grid-container {}
+
+.proj-grids {}
+
+.project-name {}
+
+.project-images {}
+
+.project-info {}
